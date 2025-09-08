@@ -12,6 +12,7 @@ class LoginPage(BasePage):
         username_input = self.driver.find_element(By.CSS_SELECTOR, "input[placeholder='Username']")
         self.sendkeys_into_element(username_input,username)
 
+
     def enter_password(self, password):
         password_input = self.driver.find_element(By.CSS_SELECTOR,"input[placeholder='Password']")
         self.sendkeys_into_element(password_input, password)
