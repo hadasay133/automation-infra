@@ -49,3 +49,13 @@ class TestLoginPage(BaseTest):
         login_page.click_on_login_button()
         assert driver.current_url == "https://www.saucedemo.com/"
 
+    def test_for_parallel(self, get_browser):
+        driver = get_browser
+        login_page = LoginPage(driver)
+        user = "vivi"
+        password = "12345"
+        login_page.enter_username(user)
+        login_page.enter_password(password)
+        time.sleep(5)
+        login_page.click_on_login_button()
+        assert driver.current_url == "https://www.saucedemo.com/"
