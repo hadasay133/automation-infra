@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb6b075f-2754-47fd-82c7-5592fce9b7fc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2w5GroF8ns4OAFGPFneWTt3Ioet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_login_page_security.TestLoginPage.executor": "Run",
+    "Python tests.Python tests for test_login_page_security.TestLoginPage.test_login_authorized_user.executor": "Run",
+    "Python tests.Python tests for test_login_page_security.TestLoginPage.test_login_unauthorized_user.executor": "Run",
+    "Python tests.Python tests for test_login_page_security.test_login_unauthorized_user.test_login_unauthorized_user.executor": "Run",
+    "Python tests.pytest for crud_api_tests.TestApiRequests.test_get_request.executor": "Run",
+    "Python tests.pytest for crud_api_tests.TestApiRequests.test_post_request.executor": "Run",
+    "Python.test_login_page_security.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/AutomationProgjectSeleniumSauseLabs",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\PycharmProjects\AutomationProgjectSeleniumSauseLabs\api_test" />
+      <recent name="C:\Users\USER\PycharmProjects\AutomationProgjectSeleniumSauseLabs\ui_test" />
+      <recent name="C:\Users\USER\PycharmProjects\AutomationProgjectSeleniumSauseLabs\tests\ui_tests" />
+      <recent name="C:\Users\USER\PycharmProjects\AutomationProgjectSeleniumSauseLabs" />
+      <recent name="C:\Users\USER\PycharmProjects\AutomationProgjectSeleniumSauseLabs\integration\db_connections\sql_connection\sql_server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for crud_api_tests.TestApiRequests.test_post_request">
+    <configuration name="Python tests for ui_test.tests.test_login_page_security" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProgjectSeleniumSauseLabs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui_test.tests.test_login_page_security&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_authorized_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProgjectSeleniumSauseLabs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;--alluredir\u003dallure-results&quot;" />
+      <option name="_new_target" value="&quot;ui_test.tests.test_login_page_security.TestLoginPage.test_login_authorized_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_unauthorized_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProgjectSeleniumSauseLabs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ui_test.tests.test_login_page_security.TestLoginPage.test_login_unauthorized_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for crud_api_tests.TestApiRequests.test_get_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProgjectSeleniumSauseLabs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_test/api_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;crud_api_tests.TestApiRequests.test_get_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for crud_api_tests.TestApiRequests.test_post_request" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AutomationProgjectSeleniumSauseLabs" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_test/api_tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;crud_api_tests.TestApiRequests.test_post_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security" />
+      <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_authorized_user" />
+      <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_unauthorized_user" />
+      <item itemvalue="Python tests.pytest for crud_api_tests.TestApiRequests.test_get_request" />
+      <item itemvalue="Python tests.pytest for crud_api_tests.TestApiRequests.test_post_request" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for crud_api_tests.TestApiRequests.test_post_request" />
+        <item itemvalue="Python tests.pytest for crud_api_tests.TestApiRequests.test_get_request" />
+        <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_authorized_user" />
+        <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security.TestLoginPage.test_login_unauthorized_user" />
+        <item itemvalue="Python tests.Python tests for ui_test.tests.test_login_page_security" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb6b075f-2754-47fd-82c7-5592fce9b7fc" name="Changes" comment="" />
+      <created>1745324222602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745324222602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/integration/db_connections/sql_connection/sql_service.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/integration/db_connections/sql_connection/db_pool.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ui_test/tests/test_login_page_security.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
