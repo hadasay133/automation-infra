@@ -7,3 +7,6 @@ allure-results
 .coverage
 report_portal.conf
 .venv1
+__pycache__/
+*.pyc
+
